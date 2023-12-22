@@ -63,9 +63,12 @@ Duplicates an entire repository, including all files, version history, and branc
 
 <b> 5. git config --global user.name (or user.email)</b>
 <p>
-Manages Git settings like your name, email, and other preferences in git config `<key> "<value>"` format. It helps you set up/check how Git works/operates on a computer or in a specific repository.
+Manages Git settings like your name, email, and other preferences. It helps you set up/check how Git works/operates on a computer or in a specific repository.
 
 Some configurations are:
+- git config \<key> "\<value>" 
+    - \<key> represents the configuration setting you want to modify or set
+    - "\<value>" is the value you want to assign to that configuration setting
 - git config --global init.defaultBranch main
     - Set the default branch name for new repositories
 - git config core.editor "code --wait"
