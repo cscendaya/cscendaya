@@ -32,8 +32,11 @@ Here is a quick reference guide summarizing essential Git commands that is  comm
 <p> Used to display the current state of the working directory and staging area.</p>
 <h5 align="center"> Here is an example if the specified repository is empty, and there are untracked files that you might want to start tracking by using git add to include them in the next commit.
 </h5>
+<img align="center" src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/status.png?raw=true">
 
+2. git init 
 <p>
-2. git init </p>
-![gitinit](init.png)
-
+Initializes a new, empty Git repository in the current directory, setting up the necessary folders and files to start tracking changes and manage versions of files within that directory.
+</p>
+<h5 align="center"> Here is an example that initializes a new Git repository within a directory named folderName inside the current directory (cscendaya).</h5>
+<img align="center" src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/clone.png?raw=true">
