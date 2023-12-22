@@ -1,1 +1,39 @@
-# Hello.\nThis is Carlie's repository.
+<h1 align="center"> This is Carlie's repository.
+
+
+### *Hello!*
+<img align="right" alt="707!" width="150" src="https://media.tenor.co/images/051fac4d326f4c062f318a38cecff80a/tenor.gif">
+I'm Carlie Shaye C. Endaya. Nice to meet you! 
+
+### I am...
+- 19 years old
+- a 2nd Year BS IT student 
+- currently studying at Mapua Malayan Colleges Laguna
+<img align="right" alt="707!" width="150" src="https://steamuserimages-a.akamaihd.net/ugc/1008186273624660365/21ED931D180FDB227B4103EDE92257ED5CFB2024/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+
+- currently studying:
+    1. **Web Development**
+    2. **MS Access** 
+
+
+### Connect With Me :)
+
+[<img align="left" src="https://iconape.com/wp-content/uploads/1/11/gmail-02.png" alt="Gmail" height="30em">](carlieshaye24@gmail.com)
+
+[<img align="left" src="https://imagensemoldes.com.br/wp-content/uploads/2020/04/%C3%8Dcone-Instagram-PNG.png" alt="Instagram" height="30em" width="30">](https://www.instagram.com/carislying/)
+  
+[<img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png" alt="Facebook" height="30em" width="30" >](https://www.facebook.com/carislying/)   
+
+<h2 align="center"> Gitcode Commands Cheat Sheet </h2>
+<p align="center">
+Here is a quick reference guide summarizing essential Git commands that is  commonly used for <b><i>efficient version control and collaboration </b></i> within Git repositories.
+</p>
+<b>1. git status</b>
+<p> Used to display the current state of the working directory and staging area.</p>
+<h5 align="center"> Here is an example if the specified repository is empty, and there are untracked files that you might want to start tracking by using git add to include them in the next commit.
+</h5>
+
+<p>
+2. git init </p>
+![gitinit](init.png)
+
