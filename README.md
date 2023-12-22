@@ -1,6 +1,6 @@
-<center>
+<p align="center">
 <img width="500" height="250" align="center" src="https://i.pinimg.com/originals/ee/32/7e/ee327e34ea333afb0b31b28a6f94997e.gif">
-</center>
+</p>
 
 <h1 align="center"> This is Carlie's repository.
 
@@ -36,7 +36,7 @@ Here is a quick reference guide summarizing essential Git commands that is  comm
 Used to display the current state of the working directory and staging area.</p>
 <h5 align="center"> Here is an example if the specified repository is empty, and there are untracked files that you might want to start tracking by using git add to include them in the next commit.
 </h5>
-<center><img src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/status.png?raw=true"></center>
+<p align="center"><img src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/status.png?raw=true"></p>
 
 <b>2. git init</b>
 <p>
@@ -45,21 +45,21 @@ Initializes a new, empty Git repository in the current directory to start tracki
 To initialize a Git repository in a specific folder, a folder name must be given in this format: git init "name of the Folder". 
 </p>
 <h5 align="center"> Here is an example that initializes a new Git repository within a specified directory named 'folderName' inside the current directory (cscendaya).</h5>
-<center><img src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/clone.png?raw=true"></center>
+<p align="center"><img src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/clone.png?raw=true"></p>
 
 <b> 3. git log</b>
 <p>
 It is command that shows a version history of all the changes made to a project. It displays a history of saved snapshots (called "commits"), that can help track the evolution of the project development.
 </p>
 <h5 align="center"> Here is an example of git log with no commits made yet.</h5>
-<center><img src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/log.png?raw=true"></center>
+<p align="center"><img src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/log.png?raw=true"></p>
 
 <b> 4. git clone "url"</b>
 <p>
 Duplicates an entire repository, including all files, version history, and branches, from an online location (such as Github) to a local computer.
 </p>
 <h5 align="center"> Here is an example of cloning an existing repository. <i>(P.S: Link was copied from a Github repository)</i></h5>
-<center><img align="center" src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/clone.png?raw=true"></center>
+<p align="center"><img src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/clone.png?raw=true"></p>
 
 <b> 5. git config </b>
 <p>
@@ -69,11 +69,10 @@ Some configurations are:
 - git config user.name "Your Name"
 - git config user.email "your.email@example.com"
 - git config \<key> "\<value>"
-
 </p>
-<h5 align="center"> Here is an example of git config configuring a username and email.</h5>
-<img align="center" src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/config.png?raw=true">
 
+<h5 align="center"> Here is an example of git config configuring a username and email.</h5>
+<p align="center"><img src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/config.png?raw=true"></p>
 
 
 <h1 align="center"> Thank you for reading! </h1>
