@@ -42,7 +42,7 @@ Used to display the current state of the working directory and staging area.</p>
 <p>
 Initializes a new, empty Git repository in the current directory to start tracking changes and manage versions of files. By default, running git init in a directory initializes Git in that directory itself. 
 
-To initialize a Git repository in a specific folder, a folder name must be given in this format: git init [name of the Folder]. 
+To initialize a Git repository in a specific folder, a folder name must be given in this format: git init "name of the Folder". 
 </p>
 <h5 align="center"> Here is an example that initializes a new Git repository within a specified directory named 'folderName' inside the current directory (cscendaya).</h5>
 <center><img src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/clone.png?raw=true"></center>
@@ -54,7 +54,7 @@ It is command that shows a version history of all the changes made to a project.
 <h5 align="center"> Here is an example of git log with no commits made yet.</h5>
 <center><img src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/log.png?raw=true"></center>
 
-<b> 4. git clone</b>
+<b> 4. git clone "url"</b>
 <p>
 Duplicates an entire repository, including all files, version history, and branches, from an online location (such as Github) to a local computer.
 </p>
@@ -72,12 +72,12 @@ Some configurations are:
 
 </p>
 <h5 align="center"> Here is an example of git config configuring a username and email.</h5>
-<center><img align="center" src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/config.png?raw=true"></center>
+<img align="center" src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/config.png?raw=true">
 
 
 
 <h1 align="center"> Thank you for reading! </h1>
-
-<center><img width="500" height="250" src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-402.gif"></center>
-
+<p align="center">
+<img width="500" height="250" src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-402.gif">
+</p>
 
