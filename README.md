@@ -1,4 +1,5 @@
 <img width="500" height="250" align="center" src="https://i.pinimg.com/originals/ee/32/7e/ee327e34ea333afb0b31b28a6f94997e.gif">
+
 <h1 align="center"> This is Carlie's repository.
 
 ### *Hello!*
@@ -15,7 +16,6 @@ I'm Carlie Shaye C. Endaya. Nice to meet you!
     1. **Web Development**
     2. **MS Access** 
 
-
 ### Connect With Me :)
 
 [<img align="left" src="https://iconape.com/wp-content/uploads/1/11/gmail-02.png" alt="Gmail" height="30em">](carlieshaye24@gmail.com)
@@ -23,6 +23,7 @@ I'm Carlie Shaye C. Endaya. Nice to meet you!
 [<img align="left" src="https://imagensemoldes.com.br/wp-content/uploads/2020/04/%C3%8Dcone-Instagram-PNG.png" alt="Instagram" height="30em" width="30">](https://www.instagram.com/carislying/)
   
 [<img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Facebook-logo-blue-circle-large-transparent-png.png" alt="Facebook" height="30em" width="30" >](https://www.facebook.com/carislying/)   
+
 
 <h2 align="center"> Gitcode Commands Cheat Sheet </h2>
 <p align="center">
@@ -63,18 +64,17 @@ Duplicates an entire repository, including all files, version history, and branc
 Manages Git settings like your name, email, and other preferences. It helps you set up/check how Git works/operates on a computer or in a specific repository.
 
 Some configurations are:
->git config user.name "Your Name"
-
->git config user.email "your.email@example.com"
-
->git config \<key> "\<value>"
+- git config user.name "Your Name"
+- git config user.email "your.email@example.com"
+- git config \<key> "\<value>"
 
 </p>
 <h5 align="center"> Here is an example of git config configuring a username and email.</h5>
 <img align="center" src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/config.png?raw=true">
 
 
-<h1 align="center"> Thank you for reading! 
 
-<img width="500" height="250" src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-402.gif">
-</h1>
+
+<img width="500" height="250" src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-402.gif"> 
+
+<h1 align="center"> Thank you for reading! </h1>
