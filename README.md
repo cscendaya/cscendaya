@@ -1,5 +1,5 @@
 <p align="center">
-<img width="500" height="250" align="center" src="https://i.pinimg.com/originals/ee/32/7e/ee327e34ea333afb0b31b28a6f94997e.gif">
+<img width="600" height="280" src="https://i.pinimg.com/originals/ee/32/7e/ee327e34ea333afb0b31b28a6f94997e.gif">
 </p>
 
 <h1 align="center"> This is Carlie's repository.
@@ -45,7 +45,7 @@ Initializes a new, empty Git repository in the current directory to start tracki
 To initialize a Git repository in a specific folder, a folder name must be given in this format: git init "name of the Folder". 
 </p>
 <h5 align="center"> Here is an example that initializes a new Git repository within a specified directory named 'folderName' inside the current directory (cscendaya).</h5>
-<p align="center"><img src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/clone.png?raw=true"></p>
+<p align="center"><img src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/init.png?raw=true"></p>
 
 <b> 3. git log</b>
 <p>
@@ -77,6 +77,6 @@ Some configurations are:
 
 <h1 align="center"> Thank you for reading! </h1>
 <p align="center">
-<img width="500" height="250" src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-402.gif">
+<img width="600" height="280" src="https://www.icegif.com/wp-content/uploads/2022/08/icegif-402.gif">
 </p>
 
