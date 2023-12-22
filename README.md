@@ -61,14 +61,15 @@ Duplicates an entire repository, including all files, version history, and branc
 <h5 align="center"> Here is an example of cloning an existing repository. <i>(P.S: Link was copied from a Github repository)</i></h5>
 <p align="center"><img src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/clone.png?raw=true"></p>
 
-<b> 5. git config </b>
+<b> 5. git config --global user.name (or user.email)</b>
 <p>
-Manages Git settings like your name, email, and other preferences. It helps you set up/check how Git works/operates on a computer or in a specific repository.
+Manages Git settings like your name, email, and other preferences in git config `<key> "<value>"` format. It helps you set up/check how Git works/operates on a computer or in a specific repository.
 
 Some configurations are:
-- git config user.name "Your Name"
-- git config user.email "your.email@example.com"
-- git config \<key> "\<value>"
+- git config --global init.defaultBranch main
+    - Set the default branch name for new repositories
+- git config core.editor "code --wait"
+    - Set VS Code as default editor
 </p>
 
 <h5 align="center"> Here is an example of git config configuring a username and email.</h5>
