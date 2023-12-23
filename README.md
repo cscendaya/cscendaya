@@ -78,6 +78,22 @@ Some configurations are:
 <h5 align="center"> Here is an example of git config configuring a username and email.</h5>
 <p align="center"><img src="https://github.com/cscendaya/cscendaya/blob/main/uploaded%20pics/config.png?raw=true"></p>
 
+<b> 6. git add .</b>
+<p>
+employed to prepare all changes in the current working directory for the upcoming commit. This includes the addition of new files, modifications to existing files, and removal of files, staging them in the repository and making them ready to be included in the subsequent commit.
+
+</p>
+
+<h5 align="center"> Here is an example of git add .</h5>
+<p align="center"><img src="https://media.discordapp.net/attachments/1023138860936470619/1188044303449194588/image.png?ex=6599177a&is=6586a27a&hm=d304c05d3c2535d442e2096e67c0d3d48f342b3c653a6d38f4eb5670eaa837ef&=&format=webp&quality=lossless&width=1096&height=61"></p>
+
+<b> 7. git push -u origin (branch)</b>
+<p>
+employed to transmit local commits to a remote repository. Whenever modifications are made to the local repository and there is a need to distribute these changes to others or update a remote repository, the git push command is utilized.
+
+<h5 align="center"> Here is an example of git push.</h5>
+<p align="center"><img src="https://media.discordapp.net/attachments/1023138860936470619/1188045035996987423/image.png?ex=65991829&is=6586a329&hm=6e216582a132739f66b184405c88f847dc6f1dc78198810b5c32b72e2a05cec4&=&format=webp&quality=lossless&width=1110&height=63"></p>
+
 
 <h1 align="center"> Thank you for reading! </h1>
 <p align="center">
